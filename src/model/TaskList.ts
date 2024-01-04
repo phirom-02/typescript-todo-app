@@ -50,7 +50,7 @@ export default class TaskList implements List {
   clear(): void {}
 
   add(taskObj: TaskItem): void {
-    TaskList.instance._list.push(taskObj);
+    TaskList.instance._list.unshift(taskObj);
     this.save();
   }
 
