@@ -15,7 +15,7 @@
 
 ---
 
-### Built with:
+### Demo image:
 
 ![Alt text](<public/Screenshot 2024-01-04 at 8.07.45 PM.png>)
 
