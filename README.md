@@ -6,7 +6,7 @@
 
 ---
 
-### Built with:
+### Functionalities:
 
 - Create task
 - Delete task
